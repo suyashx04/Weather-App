@@ -37,7 +37,7 @@ npm install
 Create a `.env` file in the root directory and add:
 
 ```env
-API_KEY=your_api_key_here
+REACT_APP_WEATHER_KEY=your_api_key_here
 ```
 
 Replace `your_api_key_here` with your actual weather API key.
