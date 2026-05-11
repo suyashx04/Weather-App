@@ -6,9 +6,9 @@ A simple and responsive weather application that shows real-time weather informa
 
 ---
 
-<!-- ## 🌐 Live Demo
+## 🌐 Live Demo
 
-[View Live Demo](https://weather-app-2-kts3.onrender.com/) -->
+[View Live Demo](https://weather-app-2-kts3.onrender.com/)
 
 ## 🚀 Run Locally
 
