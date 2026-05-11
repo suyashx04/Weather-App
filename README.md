@@ -1,12 +1,14 @@
-## 🌐 Live Demo
 
-[View Live Demo](https://weather-app-2-kts3.onrender.com/)
 
 # Weather App
 
 A simple and responsive weather application that shows real-time weather information using a weather API.
 
 ---
+
+## 🌐 Live Demo
+
+[View Live Demo](https://weather-app-2-kts3.onrender.com/)
 
 ## 🚀 Run Locally
 
